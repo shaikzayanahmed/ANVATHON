@@ -11,3 +11,4 @@ frontend/*.tsbuildinfo
 data/
 database_real_github/
 mock_data/*.db
+.vscode/
